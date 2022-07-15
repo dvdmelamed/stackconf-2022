@@ -1,4 +1,4 @@
 fastapi==0.71.0
 uvicorn==0.17.0
 pysqlite3==0.4.6
-#pikepdf==1.3.0
+calibreweb==0.6.12
